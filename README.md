@@ -164,4 +164,3 @@
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" />
-<img src="https://gitwar.herokuapp.com/badge?username=SwastikBhattacharjee&style=flat-square" />
