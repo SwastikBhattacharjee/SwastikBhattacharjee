@@ -22,7 +22,7 @@
 
 <!-- ABOUT SCENE WITH THE INTRODUCTION IMAGE -->
 <div align="center">
-  <img src="https://i.ibb.co/RQ0PcKJ/Screenshot-2024-02-13-173618-removebg-preview.png" width="100%" alt="Unable to load due to github's fault!"/>
+  <img src="https://i.ibb.co/S75zpnM/Screenshot-2024-02-15-160100-removebg-preview.png" width="100%" alt="Unable to load due to github's fault!"/>
 </div>
 
 
